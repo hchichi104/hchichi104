@@ -3,7 +3,7 @@
 ## 🔗 My Links
 
 <div align="center">
-<a href="https://hchichi104.github.io/Portfolio-chichi/#home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff9800?style=for-the-badge&logo=firefox&logoColor=white" height="30" /></a>
+<a href="https://hchichi104.github.io/Portfolio-hchichi104/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff9800?style=for-the-badge&logo=firefox&logoColor=white" height="30" /></a>
 <a href="https://www.notion.so/RE-CODE-DEV-DOCU-1d81d2349c3f80f283e2c13f3b826f12" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" /></a>
 <a href="mailto:hchichi104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </div>
